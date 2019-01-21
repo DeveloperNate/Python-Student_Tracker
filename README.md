@@ -5,12 +5,19 @@ Aim
 The aim of the code is to allow users, primarily teachers, to  consolidate their student data quickly and efficiently. To accomplish this aim, I will create a program that :
 
 Create a program that will load results from one excel sheet and combine it with data from another.
+
 Creates a GUI for navigation purposes
+
 Allows the user to select a file to merge with the tracker . 
+
 Gets the results and updates the current percentage, total test done and total questions
+
 Allows the user to not update outlier results that will distort the students results.
-Allow the code to handle issues with matching students in the tracker and quiz by manually selecting the correct student. 
+
+Allow the code to handle issues with matching students in the tracker and quiz by manually selecting the correct student.
+
 Allow the code to handle issues with matching columns in the tracker and quiz by manually selecting the correct column.
+
 Get the code to write the questions to that the student got wrong to the tracker. 
 
 Design       
