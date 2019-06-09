@@ -1,6 +1,5 @@
-# Student_Tracker
 
-Aim 
+<h1>Aim</h1> 
 
 The aim of the code is to allow users, primarily teachers, to  consolidate their student data quickly and efficiently. To accomplish this aim, I will create a program that :
 
@@ -20,11 +19,11 @@ The aim of the code is to allow users, primarily teachers, to  consolidate their
 
 + Get the code to write the questions that the student got wrong to the tracker. 
 
-Design       
+<h1>Design</h1>       
 
-Program Structure
+<h2>Program Structure</h2>
 
-GUI :
+<h3>GUI : </h3>
 
   Start Page - Allows the user to select a file using a button and then continue with the program.
   
@@ -32,7 +31,7 @@ GUI :
   
   Error Page  - Handles all error messages like outlier results and issues with matching students and topics. 
 
-Backend
+<h3>Backend </h3>
 
   Kahoot info -Gets all the information from the kahoot excel file such as questions asked ,results,  total questions ,title of the    quiz.
 
@@ -45,3 +44,4 @@ Backend
 Save file-Save the changes in the excel tracker file and load finish page. 
  
 
+The GUI code can be found in the "GUI.py" file and the backend can be located in the "Student_tracker_V2.py" file.
